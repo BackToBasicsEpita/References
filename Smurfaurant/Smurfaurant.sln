@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smurfaurant", "Smurfaurant\Smurfaurant.csproj", "{FF5D81F5-7A4C-4C46-8371-E81B6EC7FF9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF5D81F5-7A4C-4C46-8371-E81B6EC7FF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5D81F5-7A4C-4C46-8371-E81B6EC7FF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5D81F5-7A4C-4C46-8371-E81B6EC7FF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5D81F5-7A4C-4C46-8371-E81B6EC7FF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
